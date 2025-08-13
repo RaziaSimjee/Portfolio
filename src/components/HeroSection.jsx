@@ -117,7 +117,7 @@ export default function HeroSection() {
               },
             }}
             startIcon={<DownloadIcon sx={{ color: "#00ff00" }} />}
-            href="../../public/Razia-Yusoof-Simjee-CV-Resume.pdf"
+            href="/Razia-Yusoof-Simjee-CV-Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
