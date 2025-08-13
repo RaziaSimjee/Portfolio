@@ -1,0 +1,26 @@
+.about-me-section {
+  background-color: #ffffff;  /* pure white background for contrast */
+  padding: 80px 20px;
+  color: #333333;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  text-align: center;
+}
+
+.about-me-container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.about-me-title {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  margin-bottom: 24px;
+  color: #1976d2; /* Material UI primary blue */
+}
+
+.about-me-text {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  font-weight: 400;
+  color: #444;
+}

@@ -1,0 +1,11 @@
+/* Global text selection style */
+::selection {
+  background-color: #00ff0055; /* Neon Green Soft */
+  color: #ffffff; /* White text for better contrast */
+}
+
+/* For Mozilla Firefox */
+::-moz-selection {
+  background-color: #00ff0055;
+  color: #ffffff;
+}
