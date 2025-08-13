@@ -50,7 +50,7 @@ export default function HeroSection() {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        px: { xs: 2, sm: 4 },
+        // px: { xs: 2, sm: 4 },
         bgcolor: "#0f0f0f",
         fontFamily: "'Fira Code', monospace",
         color: "#00ff00",

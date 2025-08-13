@@ -27,7 +27,7 @@ export default function AboutMe() {
         sx={{
           maxWidth: 900,
           mx: "auto",
-          px: { xs: 2, sm: 4 },
+          // px: { xs: 2, sm: 4 },
           p: 3,
           borderRadius: 2,
           border: `1.5px solid ${accentColor}33`,
@@ -101,7 +101,7 @@ export default function AboutMe() {
   </Box>
   , I enrolled in a{" "}
   <Box component="span" sx={{ fontWeight: 700, color: accentColor }}>
-    Bachelor's degree in Computing
+    Bachelor's degree B.Sc. (Hons) in Computing
   </Box>{" "}
   at the University of Greenwich, where I gained core knowledge in{" "}
   <Box component="span" sx={{ fontStyle: "italic", color: "#00ff66" }}>
