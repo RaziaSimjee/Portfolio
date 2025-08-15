@@ -45,7 +45,7 @@ export default function Navbar() {
   const [activeId, setActiveId] = useState("hero");
 
   const theme = useTheme();
-  const isMobile = useMediaQuery(theme.breakpoints.down("md"));
+  const isMobile = useMediaQuery(theme.breakpoints.down("lg"));
 
   const handleNavClick = (id) => (e) => {
     e.preventDefault();

@@ -20,9 +20,11 @@ const skills = [
   { label: "Object Oriented Programming (C#, C++ & Java)", icon: <CodeIcon />, level: 70 },
   { label: "Python Programming", icon: <CodeIcon />, level: 50 },
   { label: "HTML, CSS & Javascript", icon: <WebIcon />, level: 80 },
-  { label: "Bootstrap & Tailwind", icon: <WebIcon />, level: 65 },
+  { label: "Bootstrap | Tailwind | Material-UI", icon: <WebIcon />, level: 75 },
+    { label: "UI/UX Design", icon: <WebIcon />, level: 80 },
   { label: "NodeJS/ExpressJS", icon: <CodeIcon />, level: 75 },
   { label: "React", icon: <CodeIcon />, level: 75 },
+  { label: "Azure & Figma", icon: <WebIcon />, level: 65 },
   { label: "Android App Development (Kotlin & React Native)", icon: <SmartphoneIcon />, level: 50 },
 ];
 
